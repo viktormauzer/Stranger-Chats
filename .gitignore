@@ -1,0 +1,13 @@
+**/.DS_Store
+GoogleService-Info.plist
+
+xcuserdata/
+
+*.hmap
+
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+timeline.xctimeline
+playground.xcworkspace
