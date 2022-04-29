@@ -24,3 +24,11 @@ The app is made using UIKit and all the views are created and positioned program
 ## Acknowledgements
 Special thanks to Ivana Maric of LePunktNoirStudio for designing all the visual assets for this project. Check out her portfolio at [lepunktnoir.studio](https://lepunktnoir.studio)
 
+## Illustrations Licence
+The illustrations featured in the app are work of Ivana Maric ([LePunktNoir Studio](https://lepunktnoir.studio)) specifically created for the use in this app. 
+
+You are NOT allowed to use the illustrations without permission in any other projects. 
+
+Please reach out to ivana.maric@lepunktnoir.studio if you have any questions. 
+
+
